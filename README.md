@@ -3,7 +3,7 @@
 ### Intro
 Hello, I created this page to make it easier for other victims of DeVry University's malicious marketing strategy to find resources to file for Borrowers Defense. The biggest thing that stopped me from filing my application besides Devos was not having the original marketing material. Well I have spent a large amount of time using archive.org, searching email and reddit for material to build the best application possible. If you have any additional documents/comments/tips to add feel free to open a Merge Request or message me.
 
-I am not a layer, this is not legal advice. All documents scrapped from public internet locations such as archive.org.
+I am not a lawyer, this is not legal advice. All documents scrapped from public internet locations such as archive.org.
 
 # Borrowers Defense Process
 
@@ -21,7 +21,7 @@ You can apply online and check the box regarding `EMPLOYMENT PROSPECTS` which wi
 
 The follow-up questions have a 2000 char limit on the website, the PDF version is a text box and easier to send additional pages. The website has a 5mb TOTAL attachment limit so you will not be able to include a course catalog or anything large.
 
-Follow up questions:
+Follow-up questions:
 * Please describe how the school communicated with the school. Please describe in detail what the school told you, or failed to tell you, and why you believe it was a misrepresentation
 * How did the school communicate with you about your employment prospects? Please select all that apply:
   In person
@@ -82,4 +82,4 @@ DEVRY EDUCATION GROUP INC.,](https://www.courthousenews.com/wp-content/uploads/2
 [McCormick vs Adlatem Global Education](https://www.devryuniversitysettlement.com/home/documents/)
 
 ### Personal Experience
-The website gave me a generic error twice at different times so I did a PDF application and included more material than I was allowed to upload. I used some verbiage from the lawsuits summary to build my case. 
+The website gave me a generic error twice at different times, so I did a PDF application and included more material than I was allowed to upload. I used some verbiage from the lawsuits summary to build my case. 
