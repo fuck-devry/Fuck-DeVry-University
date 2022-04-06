@@ -7,7 +7,7 @@ I am not a lawyer, this is not legal advice. All documents scrapped from public 
 
 # Borrowers Defense Process
 
-You can apply online and check the box regarding `EMPLOYMENT PROSPECTS` which will lead you to checking the following boxes:
+You can apply online and check the box regarding `EMPLOYMENT PROSPECTS` which will lead you to checking ANY/ONE of following boxes that applies to you:
 * My school did not fulfill its promise that I would find future employment.
 * My school misrepresented its job placement rates.
 * My school misrepresented the demand for graduates in my field.
