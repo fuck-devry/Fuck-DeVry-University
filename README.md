@@ -54,8 +54,9 @@ Remember, 5MB limit!
 ### Lawsuits
 Be sure to check appendixes for possible material you may have seen.
 
-[FEDERAL TRADE COMMISSION v. DEVRY EDUCATION GROUP INC. https://www.ftc.gov/system/files/documents/cases/160127devrycmpt.pdf
-DAVE MCCORMICK, ROBBY BROWN, T’LANI ROBINSON, DENNIS MAGANA, SCOTT SWINDELL, and DAVID TOROSYAN, individually and on behalf of all others similarly situated,
+[FEDERAL TRADE COMMISSION v. DEVRY EDUCATION GROUP INC.](https://www.ftc.gov/system/files/documents/cases/160127devrycmpt.pdf)
+
+[DAVE MCCORMICK, ROBBY BROWN, T’LANI ROBINSON, DENNIS MAGANA, SCOTT SWINDELL, and DAVID TOROSYAN, individually and on behalf of all others similarly situated,
 v.
 ADTALEM GLOBAL EDUCATION, INC., formerly known as DEVRY EDUCATION GROUP, INC., a Delaware corporation, DEVRY UNIVERSITY, INC., a Delaware
 corporation](https://www.devryuniversitysettlement.com/home/400/DocumentHandler?docPath=/Documents/2020_05_11_McCormick_v_DeVry_TAC_updated.pdf)
