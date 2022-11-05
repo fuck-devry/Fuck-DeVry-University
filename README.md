@@ -1,11 +1,13 @@
 # FUCK DEVRY UNIVERSITY
 ## Borrowers Defense Application Resources
 ### Intro
-Hello, I created this page to make it easier for other victims of DeVry University's malicious marketing strategy to find resources to file for Borrowers Defense. The biggest thing that stopped me from filing my application besides Devos was not having the original marketing material. Well I have spent a large amount of time using archive.org, searching email and reddit for material to build the best application possible. If you have any additional documents/comments/tips to add feel free to open a Merge Request or message me.
+Hello, I created this page to make it easier for other victims of DeVry University's malicious marketing strategy to find resources to file for Borrowers Defense. The biggest thing that stopped me from filing my application besides that bitch Betsy Fuckin Devos was not having the original marketing material. Well I have spent a large amount of time using archive.org, searching email and reddit for material to build the best application possible. If you have any additional documents/comments/tips to add feel free to open a Merge Request or message me.
 
 I am not a lawyer, this is not legal advice. All documents scrapped from public internet locations such as archive.org.
 
 # Borrowers Defense Process
+
+For a full guide check out: https://nylag.org/wp-content/uploads/2022/03/NYLAG_FSLBDTR_ApplicationGuide.pdf (it's copied to folder for long term archiving)
 
 You can apply online and check the box regarding `EMPLOYMENT PROSPECTS` which will lead you to checking ANY/ONE of following boxes that applies to you:
 * My school did not fulfill its promise that I would find future employment.
